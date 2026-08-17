@@ -80,6 +80,4 @@ Currently Learning:
 📐  Advanced CAD          → SolidWorks, CATIA
 🌬️  CFD Fundamentals      → Airflow Simulation Basics
 🛰️  Space Technology      → Cube Satellite Systems
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/> </div>
-
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/> </div><img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
